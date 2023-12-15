@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['hair', 'scratch']
+
+roboflow:
+  workspace: manish-kumar-ytl7z
+  project: yolov7_hairscratchsegmentpolygon
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/manish-kumar-ytl7z/yolov7_hairscratchsegmentpolygon/dataset/3
