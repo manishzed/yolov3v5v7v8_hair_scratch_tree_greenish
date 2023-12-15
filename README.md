@@ -1,0 +1,2 @@
+# yolov3v7v8_ajir_scratch_tree_greenish
+uses custom trained yolo model to detect and count_iphone_hair_scrtatch-tree_greenish_plot
