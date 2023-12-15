@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['hair']
+
+roboflow:
+  workspace: manish-kumar-ytl7z
+  project: hair_dataset
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/manish-kumar-ytl7z/hair_dataset/dataset/2
