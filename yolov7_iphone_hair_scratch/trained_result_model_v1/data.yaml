@@ -1,0 +1,7 @@
+names:
+- hair
+- scratch
+nc: 2
+path: /content/iphone_hair_scratch_dataset
+train: /content/iphone_hair_scratch_dataset/train
+val: /content/iphone_hair_scratch_dataset/test
