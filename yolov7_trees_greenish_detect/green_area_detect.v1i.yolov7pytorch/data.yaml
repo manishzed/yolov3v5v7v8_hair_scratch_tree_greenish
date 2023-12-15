@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['greenish']
+
+roboflow:
+  workspace: manish-kumar-ytl7z
+  project: green_area_detect
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/manish-kumar-ytl7z/green_area_detect/dataset/1
